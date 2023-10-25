@@ -43,6 +43,8 @@
         height: 500px;
         border-radius: 20px;
         box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.439);
+
+        transition: width .3s; height .3s;
     }
 
     section#login > div#imagem {
